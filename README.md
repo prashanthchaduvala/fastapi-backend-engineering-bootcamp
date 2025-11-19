@@ -1,2 +1,5 @@
-# fastapi-backend-engineering-bootcamp
-14-day structured FastAPI backend development journey — building real REST APIs, CRUD operations, Pydantic models, error handling, debugging practice, and production-ready code structure
+🚀 FastAPI Backend Engineering Bootcamp
+14-Day Structured Learning Path (Beginner → Backend Engineer)
+
+This repository documents my 14-day FastAPI backend engineering journey, designed to simulate real backend development workflows.
+Each day contains hands-on API development, debugging, documentation, and improvements — similar to how backend engineers work in real companies.
