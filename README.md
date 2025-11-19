@@ -1,3 +1,8 @@
+<p align="center">
+  <img src="https://raw.githubusercontent.com/prashanthchaduvala/fastapi-backend-engineering-bootcamp/main/fastapi-banner.png" width="100%" alt="FastAPI Backend Engineering Bootcamp Banner">
+</p>
+
+
 🚀 FastAPI Backend Engineering Bootcamp
 14-Day Structured Learning Path (Beginner → Backend Engineer)
 
