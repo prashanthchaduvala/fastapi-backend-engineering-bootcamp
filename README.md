@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/prashanthchaduvala/fastapi-backend-engineering-bootcamp/main/fastapi-banner.png" width="100%" alt="FastAPI Backend Engineering Bootcamp Banner">
+  <img src="https://raw.githubusercontent.com/prashanthchaduvala/fastapi-backend-engineering-bootcamp/main/Fast-Api.png" width="100%" alt="FastAPI Backend Engineering Bootcamp Banner">
 </p>
 
 
